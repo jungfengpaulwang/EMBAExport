@@ -1,0 +1,14 @@
+E:\TFServer2013\ischoolteam\ischool_EMBA\FiscaRuntime\addmodules\Export\EMBA.Export.dll
+E:\TFServer2013\ischoolteam\ischool_EMBA\FiscaRuntime\addmodules\Export\EMBA.Export.pdb
+E:\TFServer2013\ischoolteam\ischool_EMBA\FiscaRuntime\addmodules\MOD_EMBACore\EMBA.Export.dll
+E:\TFServer2013\ischoolteam\ischool_EMBA\FiscaRuntime\addmodules\MOD_EMBACore\EMBA.Export.pdb
+E:\TFServer2013\ischoolteam\ischool_EMBA\EMBA.Export\obj\Debug\EMBA.Export.csprojResolveAssemblyReference.cache
+E:\TFServer2013\ischoolteam\ischool_EMBA\EMBA.Export\obj\Debug\EMBA.Export.ExportProxyForm.resources
+E:\TFServer2013\ischoolteam\ischool_EMBA\EMBA.Export\obj\Debug\EMBA.Export.Forms.ShowHelpLinkForm.resources
+E:\TFServer2013\ischoolteam\ischool_EMBA\EMBA.Export\obj\Debug\EMBA.Export.Properties.Resources.resources
+E:\TFServer2013\ischoolteam\ischool_EMBA\EMBA.Export\obj\Debug\EMBA.Export.csproj.GenerateResource.Cache
+E:\TFServer2013\ischoolteam\ischool_EMBA\EMBA.Export\obj\Debug\EMBA.Export.dll
+E:\TFServer2013\ischoolteam\ischool_EMBA\EMBA.Export\obj\Debug\EMBA.Export.pdb
+E:\TFServer2013\ischoolteam\ischool_EMBA\EMBA.Export\obj\Debug\FISCA.LogAgent.dll
+E:\TFServer2013\ischoolteam\ischool_EMBA\EMBA.Export\obj\Debug\FISCA.LogAgent.pdb
+E:\TFServer2013\ischoolteam\ischool_EMBA\EMBA.Export\obj\Debug\FISCA.LogAgent.xml
