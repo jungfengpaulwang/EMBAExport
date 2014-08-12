@@ -17,6 +17,7 @@ E:\github\NTU_EMBA\EMBA.Export\bin\Debug\EMBA.Export.pdb
 E:\github\NTU_EMBA\EMBA.Export\bin\Debug\FISCA.LogAgent.dll
 E:\github\NTU_EMBA\EMBA.Export\bin\Debug\FISCA.LogAgent.pdb
 E:\github\NTU_EMBA\EMBA.Export\bin\Debug\FISCA.LogAgent.xml
+E:\github\NTU_EMBA\EMBA.Export\obj\Debug\EMBA.Export.csprojResolveAssemblyReference.cache
 E:\github\NTU_EMBA\EMBA.Export\obj\Debug\EMBA.Export.ExportProxyForm.resources
 E:\github\NTU_EMBA\EMBA.Export\obj\Debug\EMBA.Export.Forms.ShowHelpLinkForm.resources
 E:\github\NTU_EMBA\EMBA.Export\obj\Debug\EMBA.Export.Properties.Resources.resources
